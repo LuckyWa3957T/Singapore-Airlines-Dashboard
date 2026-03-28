@@ -21,7 +21,7 @@ This project presents a Power BI dashboard designed to analyze airline data such
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Screenshot 2026-03-29 012849.png)
+![Dashboard Preview](Screenshot%202026-03-29%20012849.png)
 
 ---
 
